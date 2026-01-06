@@ -1,0 +1,486 @@
+[
+  {
+    "img_filename": "io.jagat.lite_001.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        399,
+        520,
+        600,
+        560
+      ],
+      "instruction": "换一换按钮，用于刷新或更换当前内容。",
+      "success": true
+    }
+  },
+  {
+    "img_filename": "io.jagat.lite_002.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        999
+      ],
+      "instruction": "地图主区域，可上下左右滑动以查看不同区域",
+      "success": true,
+      "start": [
+        500,
+        899
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "io.jagat.lite_003.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        28,
+        765,
+        990,
+        938
+      ],
+      "instruction": "邀请好友共同编辑世界地图的弹窗",
+      "success": false
+    }
+  },
+  {
+    "img_filename": "io.jagat.lite_004.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        74,
+        878,
+        148,
+        912
+      ],
+      "instruction": "添加功能按钮",
+      "success": true
+    }
+  },
+  {
+    "img_filename": "io.jagat.lite_005.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        87,
+        900,
+        499,
+        950
+      ],
+      "instruction": "拒绝且不再询问按钮，用于拒绝应用的通知权限请求。",
+      "success": false
+    }
+  },
+  {
+    "img_filename": "io.jagat.lite_006.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        500,
+        900,
+        912,
+        950
+      ],
+      "instruction": "始终允许按钮，用于授权应用发送通知。",
+      "success": false
+    }
+  },
+  {
+    "img_filename": "io.jagat.lite_007.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        50,
+        75,
+        95,
+        95
+      ],
+      "instruction": "左箭头按钮，用于返回或切换到上一个页面。",
+      "success": true
+    }
+  },
+  {
+    "img_filename": "io.jagat.lite_008.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        999
+      ],
+      "instruction": "地图主区域，用户可滑动查看不同区域",
+      "success": false,
+      "start": [
+        500,
+        899
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "io.jagat.lite_009.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        433,
+        892,
+        564,
+        945
+      ],
+      "instruction": "关闭按钮，用于关闭当前提示框",
+      "success": true
+    }
+  },
+  {
+    "img_filename": "io.jagat.lite_010.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        815,
+        892,
+        946,
+        945
+      ],
+      "instruction": "定位按钮，用于重置地图中心点",
+      "success": false
+    }
+  },
+  {
+    "img_filename": "io.jagat.lite_011.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        905,
+        75,
+        950,
+        95
+      ],
+      "instruction": "右箭头按钮，用于前进或切换到下一个页面。",
+      "success": true
+    }
+  },
+  {
+    "img_filename": "io.jagat.lite_012.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        37,
+        383,
+        488,
+        557
+      ],
+      "instruction": "访客记录区域，包含访客量和神秘人图标，可横向滑动查看更多内容",
+      "success": true,
+      "start": [
+        443,
+        470
+      ],
+      "end": [
+        82,
+        470
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "io.jagat.lite_013.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        518,
+        383,
+        962,
+        557
+      ],
+      "instruction": "个人世界区域，包含地球图标和解锁按钮，可横向滑动查看更多内容",
+      "success": true,
+      "start": [
+        918,
+        470
+      ],
+      "end": [
+        562,
+        470
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "io.jagat.lite_014.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        37,
+        580,
+        962,
+        800
+      ],
+      "instruction": "功能图标网格，包含多个可点击的图标，可横向滑动查看更多功能",
+      "success": false,
+      "start": [
+        870,
+        690
+      ],
+      "end": [
+        130,
+        690
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "io.jagat.lite_015.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "在首页上划发现更多内容",
+      "success": true,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "io.jagat.lite_016.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        999
+      ],
+      "instruction": "地图主区域，用户可滑动查看不同区域的详细信息",
+      "success": true,
+      "start": [
+        500,
+        899
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "io.jagat.lite_017.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        2,
+        767,
+        996,
+        937
+      ],
+      "instruction": "邀请好友一起编辑世界地图的弹窗",
+      "success": false
+    }
+  },
+  {
+    "img_filename": "io.jagat.lite_018.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        74,
+        880,
+        148,
+        912
+      ],
+      "instruction": "添加好友的按钮",
+      "success": true
+    }
+  },
+  {
+    "img_filename": "io.jagat.lite_019.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "在首页向左滑动发现更多内容",
+      "success": true,
+      "start": [
+        900,
+        500
+      ],
+      "end": [
+        100,
+        500
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "io.jagat.lite_020.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "整个屏幕内容可上下左右滑动，用于浏览或切换不同页面。",
+      "success": true,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "io.jagat.lite_021.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        156,
+        795,
+        315,
+        867
+      ],
+      "instruction": "下载按钮，用于下载当前内容。",
+      "success": false
+    }
+  },
+  {
+    "img_filename": "io.jagat.lite_022.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        415,
+        795,
+        583,
+        867
+      ],
+      "instruction": "分享按钮，用于分享当前二维码或内容。",
+      "success": false
+    }
+  },
+  {
+    "img_filename": "io.jagat.lite_023.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "主视觉区域，包含二维码和背景渐变图案，支持横向滑动以查看不同内容。",
+      "success": true,
+      "start": [
+        900,
+        500
+      ],
+      "end": [
+        100,
+        500
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "io.jagat.lite_024.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        548,
+        999
+      ],
+      "instruction": "地图主区域，可上下左右滑动以查看不同区域",
+      "success": true,
+      "start": [
+        274,
+        899
+      ],
+      "end": [
+        274,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "io.jagat.lite_025.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        24,
+        763,
+        990,
+        940
+      ],
+      "instruction": "底部邀请弹窗，可上下滑动以查看更多内容",
+      "success": false,
+      "start": [
+        507,
+        922
+      ],
+      "end": [
+        507,
+        781
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "io.jagat.lite_026.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        749,
+        48,
+        843,
+        88
+      ],
+      "instruction": "添加新内容的按钮",
+      "success": true
+    }
+  }
+]

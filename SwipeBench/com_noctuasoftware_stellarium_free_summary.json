@@ -1,0 +1,398 @@
+[
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_001.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        37,
+        52,
+        114,
+        82
+      ],
+      "instruction": "左侧菜单按钮，点击可展开导航菜单。",
+      "success": true
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_002.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        610,
+        567
+      ],
+      "instruction": "左侧菜单栏，包含多个可点击选项，如星空述语、日历、观测工具等，用户可滑动浏览全部选项。",
+      "success": false,
+      "start": [
+        305,
+        510
+      ],
+      "end": [
+        305,
+        57
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_003.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "右侧星空背景区域，包含星座连线、行星标注（如水星、火星、日），用户可滑动查看不同区域的星空。",
+      "success": false,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_004.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        0,
+        518,
+        610,
+        567
+      ],
+      "instruction": "退出按钮，用于关闭当前菜单或退出应用。",
+      "success": true
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_005.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        875,
+        52,
+        952,
+        82
+      ],
+      "instruction": "搜索图标，点击可启动搜索功能。",
+      "success": true
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_006.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        40,
+        149,
+        956,
+        333
+      ],
+      "instruction": "搜索历史和收藏夹的列表区域，可上下滑动查看更多内容",
+      "success": false,
+      "start": [
+        498,
+        315
+      ],
+      "end": [
+        498,
+        167
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_007.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        610
+      ],
+      "instruction": "星空背景图像，可左右或上下滑动以浏览不同星座",
+      "success": true,
+      "start": [
+        500,
+        549
+      ],
+      "end": [
+        500,
+        61
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_008.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        610,
+        1000,
+        999
+      ],
+      "instruction": "虚拟键盘区域，可滑动以切换输入模式或查看更多功能",
+      "success": false,
+      "start": [
+        500,
+        960
+      ],
+      "end": [
+        500,
+        649
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_009.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        0,
+        938,
+        130,
+        985
+      ],
+      "instruction": "底部导航栏图标，可能用于切换到其他功能页面。",
+      "success": false
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_010.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        440,
+        940,
+        560,
+        985
+      ],
+      "instruction": "方向指示器，点击可能用于调整方位或重置视角。",
+      "success": false
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_011.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        800,
+        925,
+        960,
+        985
+      ],
+      "instruction": "显示当前时间的区域，点击可能用于查看时间设置或日历。",
+      "success": true
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_012.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        40,
+        147,
+        956,
+        333
+      ],
+      "instruction": "包含收藏夹、最近、浏览三个选项的下拉菜单",
+      "success": false,
+      "start": [
+        498,
+        314
+      ],
+      "end": [
+        498,
+        166
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_013.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        610,
+        1000,
+        830
+      ],
+      "instruction": "显示剪贴板和常用语功能的底部区域，可滑动查看更多内容",
+      "success": false,
+      "start": [
+        500,
+        808
+      ],
+      "end": [
+        500,
+        632
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_014.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "整个应用界面，包含搜索栏、星座图、底部功能区，可上下滑动浏览",
+      "success": false,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_015.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "在首页上划发现更多内容",
+      "success": true,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_016.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "整个屏幕内容可滑动，用于浏览星空图或切换不同天体视图。",
+      "success": true,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_017.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "在首页向左滑动发现更多内容",
+      "success": true,
+      "start": [
+        900,
+        500
+      ],
+      "end": [
+        100,
+        500
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_018.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "整个星空应用界面，用户可滑动以查看不同星座或天体",
+      "success": false,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_019.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "整个星空应用界面，用户可滑动以查看不同星座或调整视角。",
+      "success": false,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  }
+]

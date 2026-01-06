@@ -1,0 +1,4388 @@
+[
+  {
+    "img_filename": "com.warpengine.viggle_001.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe up on the home page to discover more content",
+      "success": true,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.warpengine.viggle_002.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        135,
+        1000,
+        935
+      ],
+      "instruction": "Video grid area with multiple video thumbnails, users can scroll to browse more content.",
+      "success": true,
+      "start": [
+        500,
+        855
+      ],
+      "end": [
+        500,
+        215
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.warpengine.viggle_003.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        65,
+        1000,
+        100
+      ],
+      "instruction": "Top navigation tab bar, users can swipe horizontally to switch between different content categories.",
+      "success": false,
+      "start": [
+        900,
+        82
+      ],
+      "end": [
+        100,
+        82
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.warpengine.viggle_004.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        135,
+        1000,
+        935
+      ],
+      "instruction": "Video grid area with multiple video thumbnails, users can scroll to browse more content.",
+      "success": false,
+      "start": [
+        500,
+        855
+      ],
+      "end": [
+        500,
+        215
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.warpengine.viggle_005.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe left on the home page to discover more content",
+      "success": false,
+      "start": [
+        900,
+        500
+      ],
+      "end": [
+        100,
+        500
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.warpengine.viggle_006.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        131,
+        500,
+        935
+      ],
+      "instruction": "Left video list area with multiple vertically arranged video thumbnails, users can scroll up and down to browse more content.",
+      "success": false,
+      "start": [
+        250,
+        855
+      ],
+      "end": [
+        250,
+        211
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.warpengine.viggle_007.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        500,
+        131,
+        1000,
+        935
+      ],
+      "instruction": "Right video list area with multiple vertically arranged video thumbnails, users can scroll up and down to browse more content.",
+      "success": false,
+      "start": [
+        750,
+        855
+      ],
+      "end": [
+        750,
+        211
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.warpengine.viggle_008.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        100,
+        1000,
+        131
+      ],
+      "instruction": "Top navigation tab bar with labels such as '鬼畜', 'Hot Picks', 'Overseas 鬼畜', 'Dou Dance', 'MORE', users can swipe left or right to switch between different content categories.",
+      "success": false,
+      "start": [
+        900,
+        116
+      ],
+      "end": [
+        100,
+        116
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.warpengine.viggle_009.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        131,
+        500,
+        935
+      ],
+      "instruction": "Left video list area with multiple vertically arranged video thumbnails, users can scroll up and down to browse more content.",
+      "success": false,
+      "start": [
+        250,
+        855
+      ],
+      "end": [
+        250,
+        211
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.warpengine.viggle_010.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        500,
+        131,
+        1000,
+        935
+      ],
+      "instruction": "Right video list area with multiple vertically arranged video thumbnails, users can scroll up and down to browse more content.",
+      "success": false,
+      "start": [
+        750,
+        855
+      ],
+      "end": [
+        750,
+        211
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.google.android.googlequicksearchbox_001.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe up on the home page to discover more content",
+      "success": true,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.google.android.googlequicksearchbox_002.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        228,
+        1000,
+        750
+      ],
+      "instruction": "A list of multiple mobile product displays, users can scroll up and down to browse different content.",
+      "success": true,
+      "start": [
+        500,
+        698
+      ],
+      "end": [
+        500,
+        280
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.google.android.googlequicksearchbox_003.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        750,
+        1000,
+        999
+      ],
+      "instruction": "A list of Minecraft game content, users can scroll up and down to browse different content.",
+      "success": false,
+      "start": [
+        500,
+        974
+      ],
+      "end": [
+        500,
+        775
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.google.android.googlequicksearchbox_004.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        50
+      ],
+      "instruction": "Top banner ad carousel, users can swipe left or right to view different ads.",
+      "success": false,
+      "start": [
+        900,
+        25
+      ],
+      "end": [
+        100,
+        25
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.google.android.googlequicksearchbox_005.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe left on the home page to discover more content",
+      "success": false,
+      "start": [
+        900,
+        500
+      ],
+      "end": [
+        100,
+        500
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.google.android.googlequicksearchbox_006.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        533,
+        1000,
+        900
+      ],
+      "instruction": "News card: Samsung bets big on Gemini, doubling to 800 million devices in a year, directly competing with Apple and OpenAI.",
+      "success": false,
+      "start": [
+        500,
+        863
+      ],
+      "end": [
+        500,
+        570
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.google.android.googlequicksearchbox_007.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        499,
+        1000,
+        900
+      ],
+      "instruction": "A scrollable list area containing news cards",
+      "success": false,
+      "start": [
+        500,
+        860
+      ],
+      "end": [
+        500,
+        539
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.google.android.googlequicksearchbox_008.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        999
+      ],
+      "instruction": "The entire Google search homepage, supports vertical scrolling to browse content",
+      "success": false,
+      "start": [
+        500,
+        899
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.google.android.googlequicksearchbox_009.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        790,
+        1000,
+        900
+      ],
+      "instruction": "News headline area, can be scrolled to view more content",
+      "success": false,
+      "start": [
+        500,
+        889
+      ],
+      "end": [
+        500,
+        801
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.google.android.googlequicksearchbox_010.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        900,
+        1000,
+        999
+      ],
+      "instruction": "Bottom navigation bar, can be swiped left or right to switch pages",
+      "success": false,
+      "start": [
+        900,
+        950
+      ],
+      "end": [
+        100,
+        950
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.wisernow.android_001.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe up on the home page to discover more content",
+      "success": false,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.wisernow.android_002.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe left on the home page to discover more content",
+      "success": false,
+      "start": [
+        900,
+        500
+      ],
+      "end": [
+        100,
+        500
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.wisernow.android_003.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        278,
+        962,
+        720,
+        975
+      ],
+      "instruction": "Swipe indicator on the bottom system navigation bar, indicating current page position or scrollable range",
+      "success": true,
+      "start": [
+        499,
+        974
+      ],
+      "end": [
+        499,
+        963
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.wisernow.android_004.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        37,
+        577,
+        960,
+        974
+      ],
+      "instruction": "A list of multiple payment options, users can scroll to view or select.",
+      "success": false,
+      "start": [
+        498,
+        934
+      ],
+      "end": [
+        498,
+        617
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.wisernow.android_005.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        37,
+        197,
+        960,
+        345
+      ],
+      "instruction": "A carousel showing the progress of the free trial challenge, users can swipe to view the challenge status for different dates.",
+      "success": true,
+      "start": [
+        868,
+        271
+      ],
+      "end": [
+        129,
+        271
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.wisernow.android_006.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        999
+      ],
+      "instruction": "The entire app page, users can scroll to browse content.",
+      "success": false,
+      "start": [
+        500,
+        899
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.finch.finch_001.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        33,
+        48,
+        100,
+        78
+      ],
+      "instruction": "Left menu button, tap to expand the navigation menu",
+      "success": true
+    }
+  },
+  {
+    "img_filename": "com.finch.finch_002.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        367,
+        1000,
+        998
+      ],
+      "instruction": "Main menu list with multiple function options such as share, scheduled tasks, knowledge, etc.",
+      "success": true,
+      "start": [
+        500,
+        935
+      ],
+      "end": [
+        500,
+        430
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.finch.finch_003.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        770,
+        1000,
+        998
+      ],
+      "instruction": "General settings options list, including account, language, appearance, etc.",
+      "success": false,
+      "start": [
+        500,
+        975
+      ],
+      "end": [
+        500,
+        793
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.finch.finch_004.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        790,
+        240,
+        920,
+        275
+      ],
+      "instruction": "Upgrade button for upgrading the account.",
+      "success": false
+    }
+  },
+  {
+    "img_filename": "com.finch.finch_005.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        857,
+        925,
+        964,
+        985
+      ],
+      "instruction": "User avatar button, tap to enter personal profile or settings",
+      "success": false
+    }
+  },
+  {
+    "img_filename": "com.finch.finch_006.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe up on the home page to discover more content",
+      "success": true,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.finch.finch_007.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        71,
+        177,
+        955,
+        265
+      ],
+      "instruction": "Shows the current adventure progress bar, can be scrolled to view progress or trigger related actions",
+      "success": false,
+      "start": [
+        867,
+        221
+      ],
+      "end": [
+        159,
+        221
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.finch.finch_008.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        35,
+        367,
+        962,
+        770
+      ],
+      "instruction": "A list of multiple achievable goals, users can scroll to browse or select goals",
+      "success": false,
+      "start": [
+        498,
+        730
+      ],
+      "end": [
+        498,
+        407
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.finch.finch_009.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        35,
+        803,
+        962,
+        885
+      ],
+      "instruction": "Button area for adding goals, can be scrolled to view or add more content",
+      "success": false,
+      "start": [
+        498,
+        877
+      ],
+      "end": [
+        498,
+        811
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.finch.finch_010.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe left on the home page to discover more content",
+      "success": false,
+      "start": [
+        900,
+        500
+      ],
+      "end": [
+        100,
+        500
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.finch.finch_011.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        74,
+        430,
+        924,
+        470
+      ],
+      "instruction": "Shows the progress bar of the current adventure, can be scrolled to view progress changes",
+      "success": false,
+      "start": [
+        839,
+        450
+      ],
+      "end": [
+        159,
+        450
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.finch.finch_012.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        33,
+        578,
+        964,
+        900
+      ],
+      "instruction": "A list of multiple achievable tasks, users can scroll to view more tasks",
+      "success": false,
+      "start": [
+        498,
+        868
+      ],
+      "end": [
+        498,
+        610
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.finch.finch_013.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        33,
+        895,
+        964,
+        925
+      ],
+      "instruction": "Hidden list items, may contain more tasks or content, can be scrolled to view",
+      "success": false,
+      "start": [
+        498,
+        922
+      ],
+      "end": [
+        498,
+        898
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.finch.finch_014.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe up on the home page to discover more content",
+      "success": true,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.finch.finch_015.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        75,
+        177,
+        950,
+        263
+      ],
+      "instruction": "Shows the current adventure progress bar, can be scrolled to view progress or trigger related actions",
+      "success": true,
+      "start": [
+        862,
+        220
+      ],
+      "end": [
+        162,
+        220
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.finch.finch_016.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        35,
+        367,
+        962,
+        770
+      ],
+      "instruction": "A list of multiple achievable goals, users can scroll to browse or select goals",
+      "success": true,
+      "start": [
+        498,
+        730
+      ],
+      "end": [
+        498,
+        407
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.finch.finch_017.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        35,
+        803,
+        962,
+        885
+      ],
+      "instruction": "Scrollable area for adding new goals, may contain more content or interactive options",
+      "success": false,
+      "start": [
+        498,
+        877
+      ],
+      "end": [
+        498,
+        811
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.finch.finch_018.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe left on the home page to discover more content",
+      "success": true,
+      "start": [
+        900,
+        500
+      ],
+      "end": [
+        100,
+        500
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.finch.finch_019.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        345,
+        823,
+        653,
+        840
+      ],
+      "instruction": "Page indicator for switching screen pages",
+      "success": true,
+      "start": [
+        622,
+        832
+      ],
+      "end": [
+        376,
+        832
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.finch.finch_020.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        79,
+        1000,
+        823
+      ],
+      "instruction": "App icon grid, can be swiped left or right to view other pages",
+      "success": false,
+      "start": [
+        500,
+        749
+      ],
+      "end": [
+        500,
+        153
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.finch.finch_021.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        79,
+        1000,
+        823
+      ],
+      "instruction": "App icon grid, can be swiped left or right to view other pages",
+      "success": false,
+      "start": [
+        500,
+        749
+      ],
+      "end": [
+        500,
+        153
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.finch.finch_022.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "The entire screen as a scrollable page for browsing content.",
+      "success": false,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "tech.butterfly.app_001.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe up on the home page to discover more content",
+      "success": false,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "tech.butterfly.app_002.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe left on the home page to discover more content",
+      "success": false,
+      "start": [
+        900,
+        500
+      ],
+      "end": [
+        100,
+        500
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "tech.butterfly.app_003.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        28,
+        378,
+        857,
+        472
+      ],
+      "instruction": "Edit image function card, contains icon and description text",
+      "success": false,
+      "start": [
+        442,
+        463
+      ],
+      "end": [
+        442,
+        387
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "tech.butterfly.app_004.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        28,
+        492,
+        970,
+        600
+      ],
+      "instruction": "Task assignment input area, contains text box and action buttons",
+      "success": false,
+      "start": [
+        499,
+        589
+      ],
+      "end": [
+        499,
+        503
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "tech.butterfly.app_005.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        28,
+        618,
+        970,
+        935
+      ],
+      "instruction": "Virtual keyboard area for text input",
+      "success": false,
+      "start": [
+        499,
+        903
+      ],
+      "end": [
+        499,
+        650
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "tech.butterfly.app_006.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        880,
+        378,
+        1000,
+        472
+      ],
+      "instruction": "Right preview image carousel area",
+      "success": true,
+      "start": [
+        988,
+        425
+      ],
+      "end": [
+        892,
+        425
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "tech.butterfly.app_007.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        378,
+        800,
+        475
+      ],
+      "instruction": "Edit image function card, contains icon and description text",
+      "success": false,
+      "start": [
+        400,
+        465
+      ],
+      "end": [
+        400,
+        388
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "tech.butterfly.app_008.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        800,
+        378,
+        1000,
+        475
+      ],
+      "instruction": "Card displaying mobile phone screenshots, possibly a feature preview",
+      "success": false,
+      "start": [
+        900,
+        465
+      ],
+      "end": [
+        900,
+        388
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "tech.butterfly.app_009.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        492,
+        999,
+        599
+      ],
+      "instruction": "Task assignment input area, supports text and voice input",
+      "success": false,
+      "start": [
+        500,
+        588
+      ],
+      "end": [
+        500,
+        503
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "tech.butterfly.app_010.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        28,
+        100,
+        970,
+        143
+      ],
+      "instruction": "Network connection status bar",
+      "success": false,
+      "start": [
+        499,
+        139
+      ],
+      "end": [
+        499,
+        104
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.perplexity.comet_001.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        875,
+        52,
+        950,
+        85
+      ],
+      "instruction": "Button for opening settings or more options.",
+      "success": true
+    }
+  },
+  {
+    "img_filename": "ai.perplexity.comet_002.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        58,
+        525,
+        939,
+        879
+      ],
+      "instruction": "Calendar view, allows users to scroll to view different months or dates.",
+      "success": false,
+      "start": [
+        498,
+        844
+      ],
+      "end": [
+        498,
+        560
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.perplexity.comet_003.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        58,
+        450,
+        775,
+        470
+      ],
+      "instruction": "Progress bar showing the distance to the next milestone, can be scrolled horizontally to view progress.",
+      "success": false,
+      "start": [
+        703,
+        460
+      ],
+      "end": [
+        130,
+        460
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "ai.perplexity.comet_004.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        58,
+        910,
+        939,
+        985
+      ],
+      "instruction": "Button to share streak, tap to share current streak status.",
+      "success": true
+    }
+  },
+  {
+    "img_filename": "ai.perplexity.comet_005.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        37,
+        46,
+        135,
+        85
+      ],
+      "instruction": "User avatar or profile entry.",
+      "success": true
+    }
+  },
+  {
+    "img_filename": "ai.perplexity.comet_006.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        55,
+        120,
+        942,
+        985
+      ],
+      "instruction": "Language selection list, users can scroll to browse more language options",
+      "success": true,
+      "start": [
+        498,
+        899
+      ],
+      "end": [
+        498,
+        207
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.perplexity.comet_007.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe up on the home page to discover more content",
+      "success": false,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.perplexity.comet_008.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe left on the home page to discover more content",
+      "success": true,
+      "start": [
+        900,
+        500
+      ],
+      "end": [
+        100,
+        500
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "ai.perplexity.comet_009.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        37,
+        467,
+        960,
+        617
+      ],
+      "instruction": "Contains three scrollable items, each representing an action task such as summarizing articles, adding to cart, or playing music videos.",
+      "success": true,
+      "start": [
+        498,
+        602
+      ],
+      "end": [
+        498,
+        482
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.perplexity.comet_010.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        37,
+        617,
+        960,
+        986
+      ],
+      "instruction": "Popup prompts user to allow access to external apps, contains three scrollable button options.",
+      "success": false,
+      "start": [
+        498,
+        949
+      ],
+      "end": [
+        498,
+        654
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.perplexity.comet_011.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        999
+      ],
+      "instruction": "The entire app interface, users can scroll vertically to browse content.",
+      "success": false,
+      "start": [
+        500,
+        899
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.perplexity.comet_012.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        37,
+        466,
+        960,
+        670
+      ],
+      "instruction": "A vertical list of four interactive options, each can be expanded or perform a specific task.",
+      "success": false,
+      "start": [
+        498,
+        650
+      ],
+      "end": [
+        498,
+        486
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.perplexity.comet_013.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        37,
+        883,
+        960,
+        930
+      ],
+      "instruction": "Input box for asking the assistant or browsing, supports scrolling in all directions to view history or adjust input.",
+      "success": true,
+      "start": [
+        498,
+        925
+      ],
+      "end": [
+        498,
+        888
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.perplexity.comet_014.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        230,
+        1000,
+        580
+      ],
+      "instruction": "Assistant suggestion list with multiple scrollable items such as summarizing articles, adding to cart, playing music, comparing prices, etc.",
+      "success": false,
+      "start": [
+        500,
+        545
+      ],
+      "end": [
+        500,
+        265
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.perplexity.comet_015.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        550,
+        1000,
+        610
+      ],
+      "instruction": "Search bar area with input box and voice button, can be scrolled to view the full input area or trigger voice input.",
+      "success": true,
+      "start": [
+        500,
+        604
+      ],
+      "end": [
+        500,
+        556
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.perplexity.comet_016.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Entire page content including top status bar, website suggestions, assistant suggestion list, and search bar, users can scroll to view all content.",
+      "success": false,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.perplexity.comet_017.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "The entire app interface, users can scroll vertically to browse different content or pages.",
+      "success": false,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.perplexity.app.android_001.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe up on the home page to discover more content",
+      "success": false,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.perplexity.app.android_002.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe left on the home page to discover more content",
+      "success": true,
+      "start": [
+        900,
+        500
+      ],
+      "end": [
+        100,
+        500
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "ai.perplexity.app.android_003.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        38,
+        245,
+        960,
+        945
+      ],
+      "instruction": "News content area with images and text, can be scrolled vertically to view more content",
+      "success": true,
+      "start": [
+        499,
+        875
+      ],
+      "end": [
+        499,
+        315
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.perplexity.app.android_004.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        38,
+        100,
+        960,
+        148
+      ],
+      "instruction": "Top navigation tab bar, can be scrolled to switch categories",
+      "success": false,
+      "start": [
+        499,
+        143
+      ],
+      "end": [
+        499,
+        105
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.perplexity.app.android_005.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        38,
+        50,
+        960,
+        90
+      ],
+      "instruction": "Top navigation bar with back button and title, can be scrolled to view",
+      "success": false,
+      "start": [
+        499,
+        86
+      ],
+      "end": [
+        499,
+        54
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.perplexity.app.android_006.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        999
+      ],
+      "instruction": "The entire app interface, including top navigation, middle content area, and bottom keyboard, users can scroll vertically to browse content.",
+      "success": false,
+      "start": [
+        500,
+        899
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.perplexity.app.android_007.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        32,
+        478,
+        964,
+        599
+      ],
+      "instruction": "Input box and its attached controls area, users can scroll vertically to adjust input box height or view hidden content.",
+      "success": false,
+      "start": [
+        498,
+        587
+      ],
+      "end": [
+        498,
+        490
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.perplexity.app.android_008.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        32,
+        379,
+        964,
+        467
+      ],
+      "instruction": "Notification prompt box, users can scroll vertically to hide or view full content.",
+      "success": false,
+      "start": [
+        498,
+        458
+      ],
+      "end": [
+        498,
+        388
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.perplexity.app.android_009.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        618,
+        1000,
+        999
+      ],
+      "instruction": "Virtual keyboard area, users can swipe left or right to switch keyboard layouts or scroll vertically to adjust keyboard position.",
+      "success": false,
+      "start": [
+        500,
+        961
+      ],
+      "end": [
+        500,
+        656
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "ai.perplexity.app.android_010.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        100
+      ],
+      "instruction": "Top navigation bar with user avatar, login button, and status bar, users can swipe left or right to view hidden content.",
+      "success": false,
+      "start": [
+        900,
+        50
+      ],
+      "end": [
+        100,
+        50
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "company.thebrowser.arc_001.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe up on the home page to discover more content",
+      "success": false,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "company.thebrowser.arc_002.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe left on the home page to discover more content",
+      "success": false,
+      "start": [
+        900,
+        500
+      ],
+      "end": [
+        100,
+        500
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "company.thebrowser.arc_003.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        300,
+        1000,
+        384
+      ],
+      "instruction": "Search bar area, can be scrolled vertically to view or hide content",
+      "success": false,
+      "start": [
+        500,
+        376
+      ],
+      "end": [
+        500,
+        308
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "company.thebrowser.arc_004.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        615,
+        1000,
+        980
+      ],
+      "instruction": "Virtual keyboard area, can be swiped left or right to switch input methods or scrolled vertically to adjust keyboard layout",
+      "success": false,
+      "start": [
+        500,
+        944
+      ],
+      "end": [
+        500,
+        652
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "company.thebrowser.arc_005.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        30
+      ],
+      "instruction": "Status bar area, can be swiped left or right to view notifications or switch modes",
+      "success": false,
+      "start": [
+        900,
+        15
+      ],
+      "end": [
+        100,
+        15
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "company.thebrowser.arc_006.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        384,
+        1000,
+        615
+      ],
+      "instruction": "Main screen background area, can be scrolled vertically to switch pages or return to the previous level",
+      "success": false,
+      "start": [
+        500,
+        592
+      ],
+      "end": [
+        500,
+        407
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "company.thebrowser.arc_007.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        940,
+        1000,
+        980
+      ],
+      "instruction": "Bottom navigation bar area, can be swiped left or right to switch function modules",
+      "success": true,
+      "start": [
+        900,
+        960
+      ],
+      "end": [
+        100,
+        960
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "company.thebrowser.arc_008.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "The entire screen as a scrollable page for browsing content or switching views.",
+      "success": true,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.underthing.focus.friend_001.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe up on the home page to discover more content",
+      "success": true,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.underthing.focus.friend_002.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "The entire game interface, can be scrolled vertically or horizontally to browse different content or scenes.",
+      "success": true,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.underthing.focus.friend_003.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe left on the home page to discover more content",
+      "success": true,
+      "start": [
+        900,
+        500
+      ],
+      "end": [
+        100,
+        500
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.underthing.focus.friend_004.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "The entire game interface is scrollable for browsing different scenes or tasks.",
+      "success": true,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.underthing.focus.friend_005.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "The entire game interface, can be scrolled vertically or horizontally to browse different content or scenes.",
+      "success": true,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.underthing.focus.friend_006.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "The entire game interface, users can scroll to browse different content or scenes.",
+      "success": true,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.underthing.focus.friend_007.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe up on the home page to discover more content",
+      "success": true,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.underthing.focus.friend_008.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "The entire game interface, can be scrolled vertically or horizontally to browse different content or scenes.",
+      "success": true,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.underthing.focus.friend_009.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe left on the home page to discover more content",
+      "success": true,
+      "start": [
+        900,
+        500
+      ],
+      "end": [
+        100,
+        500
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.underthing.focus.friend_010.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        999
+      ],
+      "instruction": "Main game interface with scrollable visual content and interactive elements.",
+      "success": true,
+      "start": [
+        500,
+        899
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.underthing.focus.friend_011.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        800,
+        1000,
+        999
+      ],
+      "instruction": "Multiple interactive item icons arranged at the bottom, can be scrolled horizontally to view.",
+      "success": true,
+      "start": [
+        900,
+        900
+      ],
+      "end": [
+        100,
+        900
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.underthing.focus.friend_012.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        125,
+        47,
+        440,
+        93
+      ],
+      "instruction": "Sock icon on the left, tap to increase quantity.",
+      "success": true
+    }
+  },
+  {
+    "img_filename": "com.underthing.focus.friend_013.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "The entire game interface, can be scrolled vertically or horizontally to browse different content or scenes.",
+      "success": true,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.underthing.focus.friend_014.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "The entire game interface, users can scroll to browse different scenes or content.",
+      "success": true,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.picoai.languageapp.android_001.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        57,
+        579,
+        940,
+        655
+      ],
+      "instruction": "Blue 'Start' button to launch the 'Deep small talk' feature.",
+      "success": true
+    }
+  },
+  {
+    "img_filename": "com.picoai.languageapp.android_002.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        999
+      ],
+      "instruction": "The entire screen content area, users can scroll up or down to browse more content.",
+      "success": false,
+      "start": [
+        500,
+        899
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.picoai.languageapp.android_003.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        57,
+        47,
+        407,
+        85
+      ],
+      "instruction": "User avatar and level display area, tap to switch country or view level details.",
+      "success": true
+    }
+  },
+  {
+    "img_filename": "com.picoai.languageapp.android_004.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        58,
+        120,
+        939,
+        817
+      ],
+      "instruction": "A vertical list of five language proficiency descriptions, users can scroll to view details of different levels.",
+      "success": false,
+      "start": [
+        498,
+        747
+      ],
+      "end": [
+        498,
+        190
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.picoai.languageapp.android_005.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        688,
+        102,
+        925,
+        135
+      ],
+      "instruction": "'My plan' button for viewing or managing personal study plans.",
+      "success": true
+    }
+  },
+  {
+    "img_filename": "com.picoai.languageapp.android_006.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        148,
+        1000,
+        600
+      ],
+      "instruction": "A vertical list of multiple conversation skill steps, users can scroll to browse.",
+      "success": true,
+      "start": [
+        500,
+        555
+      ],
+      "end": [
+        500,
+        193
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.picoai.languageapp.android_007.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        600,
+        1000,
+        998
+      ],
+      "instruction": "A vertical list of subsequent chapter titles, users can scroll to unlock new content.",
+      "success": false,
+      "start": [
+        500,
+        958
+      ],
+      "end": [
+        500,
+        640
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.picoai.languageapp.android_008.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        0,
+        0,
+        1000,
+        148
+      ],
+      "instruction": "Top title bar with close button and page title, tap to close the page.",
+      "success": false
+    }
+  },
+  {
+    "img_filename": "com.picoai.languageapp.android_009.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        798,
+        47,
+        940,
+        85
+      ],
+      "instruction": "Water drop icon and number '0', may indicate current tasks or achievements, tap to view details.",
+      "success": false
+    }
+  },
+  {
+    "img_filename": "com.picoai.languageapp.android_010.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe up on the home page to discover more content",
+      "success": false,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.picoai.languageapp.android_011.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe left on the home page to discover more content",
+      "success": false,
+      "start": [
+        900,
+        500
+      ],
+      "end": [
+        100,
+        500
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.picoai.languageapp.android_012.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        999
+      ],
+      "instruction": "Main content area with navigation bar, colored dots, text, and buttons, users can scroll vertically to browse content.",
+      "success": false,
+      "start": [
+        500,
+        899
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.gmlabs.perch_001.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe up on the home page to discover more content",
+      "success": true,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.gmlabs.perch_002.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        999
+      ],
+      "instruction": "Main content list with multiple article cards, users can scroll vertically to browse different articles.",
+      "success": true,
+      "start": [
+        500,
+        899
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.gmlabs.perch_003.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        120,
+        1000,
+        350
+      ],
+      "instruction": "Part of the article list with title, author, and timestamp, can be scrolled vertically to view more content.",
+      "success": true,
+      "start": [
+        500,
+        327
+      ],
+      "end": [
+        500,
+        143
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.gmlabs.perch_004.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        350,
+        1000,
+        575
+      ],
+      "instruction": "Another part of the article list with title, author, and timestamp, can be scrolled vertically to view more content.",
+      "success": true,
+      "start": [
+        500,
+        552
+      ],
+      "end": [
+        500,
+        372
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.gmlabs.perch_005.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe left on the home page to discover more content",
+      "success": false,
+      "start": [
+        900,
+        500
+      ],
+      "end": [
+        100,
+        500
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.gmlabs.perch_006.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        99,
+        1000,
+        935
+      ],
+      "instruction": "Main content area currently showing loading animation, users can scroll vertically to load more content.",
+      "success": true,
+      "start": [
+        500,
+        851
+      ],
+      "end": [
+        500,
+        183
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.gmlabs.perch_007.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        920
+      ],
+      "instruction": "Article list with multiple entries, can be scrolled vertically to view more content",
+      "success": true,
+      "start": [
+        500,
+        828
+      ],
+      "end": [
+        500,
+        92
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.gmlabs.perch_008.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        920,
+        1000,
+        999
+      ],
+      "instruction": "Bottom navigation bar area, can be scrolled to view hidden content or switch pages",
+      "success": true,
+      "start": [
+        500,
+        991
+      ],
+      "end": [
+        500,
+        928
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.gmlabs.perch_009.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        0,
+        920,
+        1000,
+        999
+      ],
+      "instruction": "Bottom navigation bar with Home, Search, and You tabs, tap to switch pages",
+      "success": true
+    }
+  },
+  {
+    "img_filename": "com.snitl.omnitools_001.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        38,
+        252,
+        160,
+        305
+      ],
+      "instruction": "Filter button for selecting all tools.",
+      "success": true
+    }
+  },
+  {
+    "img_filename": "com.snitl.omnitools_002.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        999
+      ],
+      "instruction": "Entire screen content area, allows vertical scrolling to view more content or return to the previous page.",
+      "success": false,
+      "start": [
+        500,
+        899
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.snitl.omnitools_003.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        178,
+        252,
+        453,
+        305
+      ],
+      "instruction": "Button to filter date and time tools.",
+      "success": false
+    }
+  },
+  {
+    "img_filename": "com.snitl.omnitools_004.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        470,
+        252,
+        678,
+        305
+      ],
+      "instruction": "Button to filter financial tools.",
+      "success": false
+    }
+  },
+  {
+    "img_filename": "com.snitl.omnitools_005.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        695,
+        252,
+        999,
+        305
+      ],
+      "instruction": "Button to filter health and fitness tools.",
+      "success": false
+    }
+  },
+  {
+    "img_filename": "com.snitl.omnitools_006.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        38,
+        328,
+        960,
+        414
+      ],
+      "instruction": "Entry to special tools, tap to access advanced tools.",
+      "success": false
+    }
+  },
+  {
+    "img_filename": "com.snitl.omnitools_007.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe up on the home page to discover more content",
+      "success": true,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.snitl.omnitools_008.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "A vertical list of tool cards, users can scroll vertically to browse more tools.",
+      "success": true,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.snitl.omnitools_009.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe left on the home page to discover more content",
+      "success": false,
+      "start": [
+        900,
+        500
+      ],
+      "end": [
+        100,
+        500
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.snitl.omnitools_010.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        434,
+        1000,
+        999
+      ],
+      "instruction": "Tool list with multiple function cards, users can scroll vertically to browse more tools.",
+      "success": true,
+      "start": [
+        500,
+        942
+      ],
+      "end": [
+        500,
+        490
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.snitl.omnitools_011.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "A vertical list of app tiles, each with an icon, title, description, and category tag. The list appears to be scrollable to view more items.",
+      "success": true,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_001.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        37,
+        52,
+        114,
+        82
+      ],
+      "instruction": "Left menu button, tap to expand the navigation menu.",
+      "success": true
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_002.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        610,
+        567
+      ],
+      "instruction": "Left menu bar with multiple clickable options such as starry sky phrases, calendar, observation tools, etc., users can scroll to browse all options.",
+      "success": false,
+      "start": [
+        305,
+        510
+      ],
+      "end": [
+        305,
+        57
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_003.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Right starry sky background area with constellation lines and planet labels (e.g., Mercury, Mars, Sun), users can scroll to view different areas of the sky.",
+      "success": false,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_004.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        0,
+        518,
+        610,
+        567
+      ],
+      "instruction": "Exit button for closing the current menu or exiting the app.",
+      "success": true
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_005.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        875,
+        52,
+        952,
+        82
+      ],
+      "instruction": "Search icon, tap to start the search function.",
+      "success": true
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_006.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        40,
+        149,
+        956,
+        333
+      ],
+      "instruction": "List area for search history and favorites, can be scrolled vertically to view more content",
+      "success": false,
+      "start": [
+        498,
+        315
+      ],
+      "end": [
+        498,
+        167
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_007.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        610
+      ],
+      "instruction": "Starry sky background image, can be scrolled horizontally or vertically to view different constellations",
+      "success": true,
+      "start": [
+        500,
+        549
+      ],
+      "end": [
+        500,
+        61
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_008.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        610,
+        1000,
+        999
+      ],
+      "instruction": "Virtual keyboard area, can be scrolled to switch input modes or view more functions",
+      "success": false,
+      "start": [
+        500,
+        960
+      ],
+      "end": [
+        500,
+        649
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_009.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        0,
+        938,
+        130,
+        985
+      ],
+      "instruction": "Bottom navigation bar icons, possibly for switching to other function pages.",
+      "success": false
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_010.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        440,
+        940,
+        560,
+        985
+      ],
+      "instruction": "Direction indicator, tap to adjust orientation or reset view.",
+      "success": false
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_011.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        800,
+        925,
+        960,
+        985
+      ],
+      "instruction": "Area displaying the current time, tap to view time settings or calendar.",
+      "success": true
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_012.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        40,
+        147,
+        956,
+        333
+      ],
+      "instruction": "Dropdown menu with favorites, recent, and browse options",
+      "success": false,
+      "start": [
+        498,
+        314
+      ],
+      "end": [
+        498,
+        166
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_013.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        610,
+        1000,
+        830
+      ],
+      "instruction": "Bottom area showing clipboard and common phrases functions, can be scrolled to view more content",
+      "success": false,
+      "start": [
+        500,
+        808
+      ],
+      "end": [
+        500,
+        632
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_014.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "The entire app interface with search bar, constellation map, and bottom function area, can be scrolled vertically to browse",
+      "success": false,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_015.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe up on the home page to discover more content",
+      "success": true,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_016.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "The entire screen content is scrollable for browsing star maps or switching between celestial views.",
+      "success": true,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_017.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe left on the home page to discover more content",
+      "success": true,
+      "start": [
+        900,
+        500
+      ],
+      "end": [
+        100,
+        500
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_018.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "The entire starry sky app interface, users can scroll to view different constellations or celestial bodies",
+      "success": false,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.noctuasoftware.stellarium_free_019.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "The entire starry sky app interface, users can scroll to view different constellations or adjust the view.",
+      "success": false,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "io.jagat.lite_001.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        399,
+        520,
+        600,
+        560
+      ],
+      "instruction": "Refresh button for refreshing or changing the current content.",
+      "success": true
+    }
+  },
+  {
+    "img_filename": "io.jagat.lite_002.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        999
+      ],
+      "instruction": "Main map area, can be scrolled in all directions to view different areas",
+      "success": true,
+      "start": [
+        500,
+        899
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "io.jagat.lite_003.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        28,
+        765,
+        990,
+        938
+      ],
+      "instruction": "Popup for inviting friends to collaboratively edit the world map",
+      "success": false
+    }
+  },
+  {
+    "img_filename": "io.jagat.lite_004.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        74,
+        878,
+        148,
+        912
+      ],
+      "instruction": "Add function button",
+      "success": true
+    }
+  },
+  {
+    "img_filename": "io.jagat.lite_005.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        87,
+        900,
+        499,
+        950
+      ],
+      "instruction": "Deny and don't ask again button for refusing app notification permission requests.",
+      "success": false
+    }
+  },
+  {
+    "img_filename": "io.jagat.lite_006.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        500,
+        900,
+        912,
+        950
+      ],
+      "instruction": "Always allow button for granting the app permission to send notifications.",
+      "success": false
+    }
+  },
+  {
+    "img_filename": "io.jagat.lite_007.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        50,
+        75,
+        95,
+        95
+      ],
+      "instruction": "Left arrow button for returning or switching to the previous page.",
+      "success": true
+    }
+  },
+  {
+    "img_filename": "io.jagat.lite_008.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        999
+      ],
+      "instruction": "Main map area, users can scroll to view different areas",
+      "success": false,
+      "start": [
+        500,
+        899
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "io.jagat.lite_009.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        433,
+        892,
+        564,
+        945
+      ],
+      "instruction": "Close button for closing the current prompt box",
+      "success": true
+    }
+  },
+  {
+    "img_filename": "io.jagat.lite_010.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        815,
+        892,
+        946,
+        945
+      ],
+      "instruction": "Location button for resetting the map center",
+      "success": false
+    }
+  },
+  {
+    "img_filename": "io.jagat.lite_011.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        905,
+        75,
+        950,
+        95
+      ],
+      "instruction": "Right arrow button for moving forward or switching to the next page.",
+      "success": true
+    }
+  },
+  {
+    "img_filename": "io.jagat.lite_012.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        37,
+        383,
+        488,
+        557
+      ],
+      "instruction": "Visitor record area with visitor count and mystery person icon, can be scrolled horizontally to view more content",
+      "success": true,
+      "start": [
+        443,
+        470
+      ],
+      "end": [
+        82,
+        470
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "io.jagat.lite_013.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        518,
+        383,
+        962,
+        557
+      ],
+      "instruction": "Personal world area with earth icon and unlock button, can be scrolled horizontally to view more content",
+      "success": true,
+      "start": [
+        918,
+        470
+      ],
+      "end": [
+        562,
+        470
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "io.jagat.lite_014.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        37,
+        580,
+        962,
+        800
+      ],
+      "instruction": "Function icon grid with multiple clickable icons, can be scrolled horizontally to view more functions",
+      "success": false,
+      "start": [
+        870,
+        690
+      ],
+      "end": [
+        130,
+        690
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "io.jagat.lite_015.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe up on the home page to discover more content",
+      "success": true,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "io.jagat.lite_016.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        999
+      ],
+      "instruction": "Main map area, users can scroll to view detailed information of different areas",
+      "success": true,
+      "start": [
+        500,
+        899
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "io.jagat.lite_017.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        2,
+        767,
+        996,
+        937
+      ],
+      "instruction": "Popup for inviting friends to collaboratively edit the world map",
+      "success": false
+    }
+  },
+  {
+    "img_filename": "io.jagat.lite_018.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        74,
+        880,
+        148,
+        912
+      ],
+      "instruction": "Add friend button",
+      "success": true
+    }
+  },
+  {
+    "img_filename": "io.jagat.lite_019.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe left on the home page to discover more content",
+      "success": true,
+      "start": [
+        900,
+        500
+      ],
+      "end": [
+        100,
+        500
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "io.jagat.lite_020.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "The entire screen content can be scrolled in all directions for browsing or switching between different pages.",
+      "success": true,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "io.jagat.lite_021.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        156,
+        795,
+        315,
+        867
+      ],
+      "instruction": "Download button for downloading current content.",
+      "success": false
+    }
+  },
+  {
+    "img_filename": "io.jagat.lite_022.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        415,
+        795,
+        583,
+        867
+      ],
+      "instruction": "Share button for sharing the current QR code or content.",
+      "success": false
+    }
+  },
+  {
+    "img_filename": "io.jagat.lite_023.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Main visual area with QR code and background gradient pattern, supports horizontal scrolling to view different content.",
+      "success": true,
+      "start": [
+        900,
+        500
+      ],
+      "end": [
+        100,
+        500
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "io.jagat.lite_024.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        548,
+        999
+      ],
+      "instruction": "Main map area, can be scrolled in all directions to view different areas",
+      "success": true,
+      "start": [
+        274,
+        899
+      ],
+      "end": [
+        274,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "io.jagat.lite_025.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        24,
+        763,
+        990,
+        940
+      ],
+      "instruction": "Bottom invitation popup, can be scrolled vertically to view more content",
+      "success": false,
+      "start": [
+        507,
+        922
+      ],
+      "end": [
+        507,
+        781
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "io.jagat.lite_026.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        749,
+        48,
+        843,
+        88
+      ],
+      "instruction": "Button for adding new content",
+      "success": true
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_001.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe up on the home page to discover more content",
+      "success": true,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_002.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        192,
+        29,
+        958,
+        120
+      ],
+      "instruction": "Top three-panel comic carousel for displaying continuous visual content.",
+      "success": true,
+      "start": [
+        881,
+        75
+      ],
+      "end": [
+        269,
+        75
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_003.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        195,
+        1000,
+        930
+      ],
+      "instruction": "Main content area with tweet content and images, can be scrolled vertically to view the full tweet.",
+      "success": true,
+      "start": [
+        500,
+        857
+      ],
+      "end": [
+        500,
+        268
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_004.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        163,
+        150,
+        958,
+        180
+      ],
+      "instruction": "Interaction button area below the tweet, can be scrolled vertically to view more interaction information.",
+      "success": true,
+      "start": [
+        560,
+        177
+      ],
+      "end": [
+        560,
+        153
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_005.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe left on the home page to discover more content",
+      "success": true,
+      "start": [
+        900,
+        500
+      ],
+      "end": [
+        100,
+        500
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_006.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        38,
+        148,
+        960,
+        930
+      ],
+      "instruction": "A grid of four video thumbnails that can be scrolled horizontally or vertically to view more content.",
+      "success": true,
+      "start": [
+        499,
+        852
+      ],
+      "end": [
+        499,
+        226
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_007.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        88,
+        93,
+        910,
+        133
+      ],
+      "instruction": "The tab bar with 'Discover', 'Following', and 'Video' options that can be swiped horizontally to switch between sections.",
+      "success": true,
+      "start": [
+        828,
+        113
+      ],
+      "end": [
+        170,
+        113
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_008.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        148
+      ],
+      "instruction": "The top navigation bar with menu, app logo, and hashtag icon that can be swiped horizontally for additional options.",
+      "success": false,
+      "start": [
+        900,
+        74
+      ],
+      "end": [
+        100,
+        74
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_009.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        930
+      ],
+      "instruction": "Main content area showing loading animation, users can scroll vertically to load more content or return to the previous page.",
+      "success": true,
+      "start": [
+        500,
+        837
+      ],
+      "end": [
+        500,
+        93
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_010.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        37,
+        28,
+        960,
+        840
+      ],
+      "instruction": "A grid of four video posts with thumbnails and engagement metrics, arranged in a 2x2 layout.",
+      "success": true,
+      "start": [
+        498,
+        759
+      ],
+      "end": [
+        498,
+        109
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_011.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        37,
+        28,
+        960,
+        925
+      ],
+      "instruction": "The main feed area containing video posts and user comments, which can be scrolled vertically to view more content.",
+      "success": true,
+      "start": [
+        498,
+        835
+      ],
+      "end": [
+        498,
+        118
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_012.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        800,
+        860,
+        937,
+        915
+      ],
+      "instruction": "A blue circular button with a pencil icon, indicating the option to create or edit a post.",
+      "success": true
+    }
+  },
+  {
+    "img_filename": "com.google.android.apps.cultural_001.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe up on the home page to discover more content",
+      "success": false,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.google.android.apps.cultural_002.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Swipe left on the home page to discover more content",
+      "success": false,
+      "start": [
+        900,
+        500
+      ],
+      "end": [
+        100,
+        500
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.google.android.apps.cultural_003.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "Entire screen content area, can be scrolled vertically or horizontally to browse different pages or content",
+      "success": false,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  }
+]

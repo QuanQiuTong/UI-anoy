@@ -1,0 +1,240 @@
+[
+  {
+    "img_filename": "com.picoai.languageapp.android_001.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        57,
+        579,
+        940,
+        655
+      ],
+      "instruction": "蓝色的“Start”按钮，用于启动“Deep small talk”功能。",
+      "success": true
+    }
+  },
+  {
+    "img_filename": "com.picoai.languageapp.android_002.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        999
+      ],
+      "instruction": "整个屏幕内容区域，用户可以向上或向下滚动以浏览更多内容。",
+      "success": false,
+      "start": [
+        500,
+        899
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.picoai.languageapp.android_003.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        57,
+        47,
+        407,
+        85
+      ],
+      "instruction": "用户头像和等级显示区域，点击可切换国家或查看等级详情。",
+      "success": true
+    }
+  },
+  {
+    "img_filename": "com.picoai.languageapp.android_004.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        58,
+        120,
+        939,
+        817
+      ],
+      "instruction": "包含五个语言水平描述的垂直列表，用户可滑动查看不同水平的详细信息。",
+      "success": false,
+      "start": [
+        498,
+        747
+      ],
+      "end": [
+        498,
+        190
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.picoai.languageapp.android_005.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        688,
+        102,
+        925,
+        135
+      ],
+      "instruction": "“My plan”按钮，用于查看或管理个人学习计划。",
+      "success": true
+    }
+  },
+  {
+    "img_filename": "com.picoai.languageapp.android_006.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        148,
+        1000,
+        600
+      ],
+      "instruction": "包含多个对话技巧步骤的垂直列表，用户可以滑动浏览。",
+      "success": true,
+      "start": [
+        500,
+        555
+      ],
+      "end": [
+        500,
+        193
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.picoai.languageapp.android_007.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        600,
+        1000,
+        998
+      ],
+      "instruction": "包含后续章节标题的垂直列表，用户可以滑动解锁新内容。",
+      "success": false,
+      "start": [
+        500,
+        958
+      ],
+      "end": [
+        500,
+        640
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.picoai.languageapp.android_008.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        0,
+        0,
+        1000,
+        148
+      ],
+      "instruction": "顶部标题栏，包含关闭按钮和页面标题，可点击关闭页面。",
+      "success": false
+    }
+  },
+  {
+    "img_filename": "com.picoai.languageapp.android_009.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        798,
+        47,
+        940,
+        85
+      ],
+      "instruction": "水滴图标和数字“0”，可能表示当前任务或成就数量，点击可查看详情。",
+      "success": false
+    }
+  },
+  {
+    "img_filename": "com.picoai.languageapp.android_010.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "在首页上划发现更多内容",
+      "success": false,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.picoai.languageapp.android_011.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "在首页向左滑动发现更多内容",
+      "success": false,
+      "start": [
+        900,
+        500
+      ],
+      "end": [
+        100,
+        500
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.picoai.languageapp.android_012.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        999
+      ],
+      "instruction": "主内容区域，包含导航栏、彩色圆点、文字和按钮，用户可上下滚动浏览内容。",
+      "success": false,
+      "start": [
+        500,
+        899
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  }
+]

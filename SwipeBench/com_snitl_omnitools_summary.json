@@ -1,0 +1,216 @@
+[
+  {
+    "img_filename": "com.snitl.omnitools_001.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        38,
+        252,
+        160,
+        305
+      ],
+      "instruction": "选择所有工具的筛选按钮。",
+      "success": true
+    }
+  },
+  {
+    "img_filename": "com.snitl.omnitools_002.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        999
+      ],
+      "instruction": "整个屏幕内容区域，允许上下滚动以查看更多内容或返回上一页。",
+      "success": false,
+      "start": [
+        500,
+        899
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.snitl.omnitools_003.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        178,
+        252,
+        453,
+        305
+      ],
+      "instruction": "筛选日期与时间类工具的按钮。",
+      "success": false
+    }
+  },
+  {
+    "img_filename": "com.snitl.omnitools_004.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        470,
+        252,
+        678,
+        305
+      ],
+      "instruction": "筛选金融类工具的按钮。",
+      "success": false
+    }
+  },
+  {
+    "img_filename": "com.snitl.omnitools_005.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        695,
+        252,
+        999,
+        305
+      ],
+      "instruction": "筛选健康与健身类工具的按钮。",
+      "success": false
+    }
+  },
+  {
+    "img_filename": "com.snitl.omnitools_006.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        38,
+        328,
+        960,
+        414
+      ],
+      "instruction": "进入特殊工具的入口，可点击访问高级工具。",
+      "success": false
+    }
+  },
+  {
+    "img_filename": "com.snitl.omnitools_007.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "在首页上划发现更多内容",
+      "success": true,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.snitl.omnitools_008.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "包含多个工具卡片的垂直列表，用户可上下滑动浏览更多工具。",
+      "success": true,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.snitl.omnitools_009.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "在首页向左滑动发现更多内容",
+      "success": false,
+      "start": [
+        900,
+        500
+      ],
+      "end": [
+        100,
+        500
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.snitl.omnitools_010.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        434,
+        1000,
+        999
+      ],
+      "instruction": "工具列表，包含多个功能卡片，用户可上下滑动浏览更多工具。",
+      "success": true,
+      "start": [
+        500,
+        942
+      ],
+      "end": [
+        500,
+        490
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.snitl.omnitools_011.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "A vertical list of app tiles, each with an icon, title, description, and category tag. The list appears to be scrollable to view more items.",
+      "success": true,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "img_filename": "tech.butterfly.app_001.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "在首页上划发现更多内容",
+      "success": false,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "tech.butterfly.app_002.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "在首页向左滑动发现更多内容",
+      "success": false,
+      "start": [
+        900,
+        500
+      ],
+      "end": [
+        100,
+        500
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "tech.butterfly.app_003.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        28,
+        378,
+        857,
+        472
+      ],
+      "instruction": "编辑图片功能卡片，包含图标和描述文字",
+      "success": false,
+      "start": [
+        442,
+        463
+      ],
+      "end": [
+        442,
+        387
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "tech.butterfly.app_004.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        28,
+        492,
+        970,
+        600
+      ],
+      "instruction": "任务分配输入区域，包含文本框和操作按钮",
+      "success": false,
+      "start": [
+        499,
+        589
+      ],
+      "end": [
+        499,
+        503
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "tech.butterfly.app_005.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        28,
+        618,
+        970,
+        935
+      ],
+      "instruction": "虚拟键盘区域，用于输入文本",
+      "success": false,
+      "start": [
+        499,
+        903
+      ],
+      "end": [
+        499,
+        650
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "tech.butterfly.app_006.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        880,
+        378,
+        1000,
+        472
+      ],
+      "instruction": "右侧预览图轮播区域",
+      "success": true,
+      "start": [
+        988,
+        425
+      ],
+      "end": [
+        892,
+        425
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "tech.butterfly.app_007.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        378,
+        800,
+        475
+      ],
+      "instruction": "编辑图片功能卡片，包含图标和描述文字",
+      "success": false,
+      "start": [
+        400,
+        465
+      ],
+      "end": [
+        400,
+        388
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "tech.butterfly.app_008.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        800,
+        378,
+        1000,
+        475
+      ],
+      "instruction": "展示手机屏幕截图的卡片，可能为功能预览",
+      "success": false,
+      "start": [
+        900,
+        465
+      ],
+      "end": [
+        900,
+        388
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "tech.butterfly.app_009.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        492,
+        999,
+        599
+      ],
+      "instruction": "任务分配输入区域，支持文本输入和语音输入",
+      "success": false,
+      "start": [
+        500,
+        588
+      ],
+      "end": [
+        500,
+        503
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "tech.butterfly.app_010.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        28,
+        100,
+        970,
+        143
+      ],
+      "instruction": "网络连接状态提示条",
+      "success": false,
+      "start": [
+        499,
+        139
+      ],
+      "end": [
+        499,
+        104
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "img_filename": "com.google.android.googlequicksearchbox_001.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "在首页上划发现更多内容",
+      "success": true,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.google.android.googlequicksearchbox_002.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        228,
+        1000,
+        750
+      ],
+      "instruction": "包含多个手机产品展示的列表项，用户可上下滑动浏览不同内容。",
+      "success": true,
+      "start": [
+        500,
+        698
+      ],
+      "end": [
+        500,
+        280
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.google.android.googlequicksearchbox_003.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        750,
+        1000,
+        999
+      ],
+      "instruction": "包含Minecraft游戏内容的列表项，用户可上下滑动浏览不同内容。",
+      "success": false,
+      "start": [
+        500,
+        974
+      ],
+      "end": [
+        500,
+        775
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.google.android.googlequicksearchbox_004.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        50
+      ],
+      "instruction": "顶部横幅广告轮播图，用户可左右滑动查看不同广告。",
+      "success": false,
+      "start": [
+        900,
+        25
+      ],
+      "end": [
+        100,
+        25
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.google.android.googlequicksearchbox_005.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "在首页向左滑动发现更多内容",
+      "success": false,
+      "start": [
+        900,
+        500
+      ],
+      "end": [
+        100,
+        500
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "com.google.android.googlequicksearchbox_006.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        533,
+        1000,
+        900
+      ],
+      "instruction": "三星豪赌Gemini一年翻倍至8亿台行动装置 直球迎战蘋果与OpenAI的新闻卡片",
+      "success": false,
+      "start": [
+        500,
+        863
+      ],
+      "end": [
+        500,
+        570
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.google.android.googlequicksearchbox_007.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        499,
+        1000,
+        900
+      ],
+      "instruction": "包含新闻卡片的可滚动列表区域",
+      "success": false,
+      "start": [
+        500,
+        860
+      ],
+      "end": [
+        500,
+        539
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.google.android.googlequicksearchbox_008.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        999
+      ],
+      "instruction": "整个Google搜索主页，支持上下滑动浏览内容",
+      "success": false,
+      "start": [
+        500,
+        899
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.google.android.googlequicksearchbox_009.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        790,
+        1000,
+        900
+      ],
+      "instruction": "新闻标题区域，可滑动查看更多内容",
+      "success": false,
+      "start": [
+        500,
+        889
+      ],
+      "end": [
+        500,
+        801
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "com.google.android.googlequicksearchbox_010.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        900,
+        1000,
+        999
+      ],
+      "instruction": "底部导航栏，可左右滑动切换页面",
+      "success": false,
+      "start": [
+        900,
+        950
+      ],
+      "end": [
+        100,
+        950
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  }
+]

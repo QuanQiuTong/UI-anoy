@@ -1,0 +1,280 @@
+[
+  {
+    "img_filename": "xyz.blueskyweb.app_001.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "在首页上划发现更多内容",
+      "success": true,
+      "start": [
+        500,
+        900
+      ],
+      "end": [
+        500,
+        100
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_002.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        192,
+        29,
+        958,
+        120
+      ],
+      "instruction": "顶部的三格漫画轮播图，用于展示连续的视觉内容。",
+      "success": true,
+      "start": [
+        881,
+        75
+      ],
+      "end": [
+        269,
+        75
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_003.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        195,
+        1000,
+        930
+      ],
+      "instruction": "包含推文内容和图片的主内容区域，可上下滚动查看完整推文。",
+      "success": true,
+      "start": [
+        500,
+        857
+      ],
+      "end": [
+        500,
+        268
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_004.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        163,
+        150,
+        958,
+        180
+      ],
+      "instruction": "推文下方的互动按钮区域，可上下滑动查看更多互动信息。",
+      "success": true,
+      "start": [
+        560,
+        177
+      ],
+      "end": [
+        560,
+        153
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_005.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        1000
+      ],
+      "instruction": "在首页向左滑动发现更多内容",
+      "success": true,
+      "start": [
+        900,
+        500
+      ],
+      "end": [
+        100,
+        500
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_006.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        38,
+        148,
+        960,
+        930
+      ],
+      "instruction": "A grid of four video thumbnails that can be scrolled horizontally or vertically to view more content.",
+      "success": true,
+      "start": [
+        499,
+        852
+      ],
+      "end": [
+        499,
+        226
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_007.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        88,
+        93,
+        910,
+        133
+      ],
+      "instruction": "The tab bar with 'Discover', 'Following', and 'Video' options that can be swiped horizontally to switch between sections.",
+      "success": true,
+      "start": [
+        828,
+        113
+      ],
+      "end": [
+        170,
+        113
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_008.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        148
+      ],
+      "instruction": "The top navigation bar with menu, app logo, and hashtag icon that can be swiped horizontally for additional options.",
+      "success": false,
+      "start": [
+        900,
+        74
+      ],
+      "end": [
+        100,
+        74
+      ],
+      "duration": 300,
+      "direction": "left"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_009.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        0,
+        0,
+        1000,
+        930
+      ],
+      "instruction": "主内容区域，显示加载动画，用户可上下滑动以加载更多内容或返回上一页。",
+      "success": true,
+      "start": [
+        500,
+        837
+      ],
+      "end": [
+        500,
+        93
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_010.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        37,
+        28,
+        960,
+        840
+      ],
+      "instruction": "A grid of four video posts with thumbnails and engagement metrics, arranged in a 2x2 layout.",
+      "success": true,
+      "start": [
+        498,
+        759
+      ],
+      "end": [
+        498,
+        109
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_011.png",
+    "action_data": {
+      "action": "swipe",
+      "bbox": [
+        37,
+        28,
+        960,
+        925
+      ],
+      "instruction": "The main feed area containing video posts and user comments, which can be scrolled vertically to view more content.",
+      "success": true,
+      "start": [
+        498,
+        835
+      ],
+      "end": [
+        498,
+        118
+      ],
+      "duration": 300,
+      "direction": "up"
+    }
+  },
+  {
+    "img_filename": "xyz.blueskyweb.app_012.png",
+    "action_data": {
+      "action": "tap",
+      "bbox": [
+        800,
+        860,
+        937,
+        915
+      ],
+      "instruction": "A blue circular button with a pencil icon, indicating the option to create or edit a post.",
+      "success": true
+    }
+  }
+]
